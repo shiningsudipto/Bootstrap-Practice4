@@ -1,0 +1,101 @@
+body{
+    background-color: #29282E;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #29282E !important;
+
+}
+#navbarTet{
+      color: white !important;  
+}
+#banner{
+background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/banner.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-size: 100%;
+padding: 3rem 0;
+}
+.banner-left img{
+    height: 20rem;
+}
+.banner-right h1{
+font-size: 4rem;
+color: #E58E00;
+}
+.btn{
+    background-color: #E58E00;
+    font-weight: bold;
+    color: #29282E
+}
+
+.about-us{
+    background-color: #29282E;
+    /* color: white;
+    font-weight: bold; */
+}
+.aboutus-img{
+    height: 25rem;
+}
+
+.food-q{
+    background-image: url(./img/Untitled-1.png);
+    background-repeat: no-repeat;
+    background-color: #29282E;
+background-size: cover;
+width: 100%;
+height: 100%;
+padding-bottom: 43rem;
+}
+.food-text{
+    margin-top: 10rem;
+}
+.food-gallery .card{
+    border: none !important;
+}
+.enjoy-food{
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./img/Untitled-10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+        float: right;
+        padding: 8rem 0;
+        /* margin-bottom: 50px; */
+}
+.enjoy-food-text{
+
+/* width: 30rem; */
+text-align: center;
+border: 5px solid #E58E00;
+padding: 1rem;
+/* margin-left: 30%; */
+}
+.our-menu{
+    margin-top: 50px;
+}
+.our-menuu{
+    justify-content: space-between !important;
+}
+.our-img{
+    margin: 10px;
+}
+
+.card-body, .card-footer{
+    background-color: #29282E !important;
+}
+.card-title, .card-footer{
+    color: #E58E00 !important;
+}
+.best-meal{
+    background-color: #E58E00;
+}
+.best-meal-img img{
+    height: 20rem;
+}
+.best-meal-text{
+margin-top: 5rem;
+}
